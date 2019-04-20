@@ -1,4 +1,4 @@
-#R Code for Predicting Loan Status
+#R Code for Predicting Loan Status using Monte Carlo Simulation
 
 # author: Benjamin O. Tayo
 
